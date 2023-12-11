@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABa/G2vYDI+GwXRJWebn7N7F/R0LnICSgUcyAjP8Vknw87Ggc7oHui1pPx8pqUWQNcL7D6rF2uybFA1khOyJNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nlkaral\\OneDrive - Consafe Logistics\\Documents\\Change_folder\\FileWatcherApp\\FileWatcher\\FileWatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nlkaral\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\nlkaral\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
