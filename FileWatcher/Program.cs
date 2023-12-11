@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        string directoryToWatch = @"C:\Users\nlkaral\OneDrive - Consafe Logistics\Documents\Work";
+        string directoryToWatch = @"C:/Your/Path/Here";
 
         FileSystemWatcher watcher = new FileSystemWatcher(directoryToWatch);
         // watcher.Filter = "*.umap"; // Adjust the filter based on your needs
